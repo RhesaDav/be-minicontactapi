@@ -4,7 +4,7 @@ const port = 3100
 const cors = require('cors')
 const bodyParser = require('body-parser')
 
-// 3 jam 42 menit. last video https://drive.google.com/file/d/1u8bzx4DXDPsfzJLK2xSJVGnnwsQjoZ8y/view (axios)
+// 4 jam 32 menit. last video https://drive.google.com/file/d/1u8bzx4DXDPsfzJLK2xSJVGnnwsQjoZ8y/view (axios)
 
 const app = express()
 
